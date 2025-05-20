@@ -1,0 +1,28 @@
+{
+  "name": "vibechat",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000V\u0000i\u0000b\u0000e\u0000c\u0000h\u0000a\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soham-Bose14/vibechat.git"
+  },
+  "author": "Soham Bose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soham-Bose14/vibechat/issues"
+  },
+  "homepage": "https://github.com/Soham-Bose14/vibechat#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^3.15.0",
+    "@emotion/react": "^11.14.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.15.0",
+    "nodemon": "^3.1.9"
+  }
+}
